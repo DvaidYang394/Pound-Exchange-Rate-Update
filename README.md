@@ -25,3 +25,4 @@
         Exchange_Rate_App.exe
         logo.ico
     2. 运行Exchange_Rate_App即可运行程序。
+    3. 请勿修改data.dat, data_analysis.dat中的数据，否则会引起程序崩溃。
